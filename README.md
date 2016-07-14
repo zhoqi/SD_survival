@@ -1,1 +1,1 @@
-# SD_survival
+# R code for survival analysis
